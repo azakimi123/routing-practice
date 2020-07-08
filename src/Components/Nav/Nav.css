@@ -1,0 +1,30 @@
+.nav{
+    width: 100vw;
+    height: 100px;
+    background: transparent;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* color: white; */
+    color: black;
+}
+
+.nav-links{
+    width: 600px;
+    display: flex;
+    justify-content: space-evenly;
+    text-decoration: none;
+    text-decoration-color: white;
+}
+
+.nav-name{
+    margin-left: 200px;
+    font-size: 30px;
+}
+
+.links{
+    text-decoration: none;
+    /* color: white; */
+    color: black;
+    font-size: 20px;
+}

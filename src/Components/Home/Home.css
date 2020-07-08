@@ -1,0 +1,11 @@
+.main-container{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('https://i.picsum.photos/id/121/1600/1067.jpg?hmac=QDrnlQAvC_54xDpx2afpzKMbjCZvnRljseYvkK8XPCQ');
+    background-size: cover;
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
