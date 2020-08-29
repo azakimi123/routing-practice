@@ -1,0 +1,19 @@
+
+.about-page{
+    visibility: hidden;
+}
+.circle{
+    width: 75px;
+    height: 75px;
+    border-radius: 100%;
+    margin: 50px;
+    background-color: yellow;
+}
+
+.circle.red{
+    background-color: red;
+}
+
+.circle.blue{
+    background-color: blue;
+}

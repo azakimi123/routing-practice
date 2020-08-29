@@ -9,3 +9,12 @@
     align-items: center;
     flex-direction: column;
 }
+
+.main-title1{
+    opacity: 0;
+    /* margin-right: -100px; */
+}
+.main-title2{
+    opacity: 0;
+    /* margin-left: -100px; */
+}
